@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuanMunoz93/react-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Juan Munoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanMunoz93/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/JuanMunoz93/react-tutorial#readme"
+}
